@@ -1,5 +1,6 @@
 ## comandos para llevar repositorio a github
 
+```
 git init
 git add .
 git commit -m "message"
@@ -11,3 +12,4 @@ git push -u origin main
 git config --global user.name "Victor Manuel"
 
 git config --global user.email "tucorreo@ejemplo.com"
+```
